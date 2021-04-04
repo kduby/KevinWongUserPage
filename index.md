@@ -4,8 +4,8 @@
 
 [GitHub](https://github.com/kduby)  [LinkedIn](https://www.linkedin.com/in/kevinwong01/)    [Email](kew005@ucsd.edu)
 
-### [Skills] (https://kduby.github.io/KevinWongUserPage/#skills)
-### [Interests] (https://kduby.github.io/KevinWongUserPage/#interests)
+[Skills] (https://kduby.github.io/KevinWongUserPage/#skills)
+[Interests] (https://kduby.github.io/KevinWongUserPage/#interests)
 
 ###### Skills
 -C/C++
