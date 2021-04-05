@@ -3,7 +3,7 @@
 > Eager to have fun and learn :)
 
 #### Connect With Me!
-[GitHub](https://github.com/kduby)  [LinkedIn](https://www.linkedin.com/in/kevinwong01/)    [Email](kew005@ucsd.edu)    [Instagram] (https://www.instagram.com/wevinkong/)
+[GitHub](https://github.com/kduby)  [LinkedIn](https://www.linkedin.com/in/kevinwong01/)    [Email](kew005@ucsd.edu)  
 
 ###### Skills
 -C/C++
