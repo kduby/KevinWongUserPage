@@ -14,6 +14,12 @@
 -Javascript
 -Typescript
 
+###### Goals
+- [x] Exercise daily
+- [] Learn something entirely new
+- [] Sleep early, wake up early
+- [] Practice coding problems
+
 ###### Interests
 - Sports 
  1. volleyball
@@ -28,10 +34,6 @@
 ![alt text](chess.jpg "Title")
 ![alt text](valorant.jpg "Title")
 
-###### Goals
-[x] Exercise daily
-[] Learn something entirely new
-[] Sleep early, wake up early
-[] Practice coding problems
+
 
 [Currently working on](current.md)
