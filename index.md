@@ -3,7 +3,7 @@
 > Eager to have fun and learn :)
 
 #### Connect With Me!
-[GitHub](https://github.com/kduby)  [LinkedIn](https://www.linkedin.com/in/kevinwong01/)    [Email](kew005@ucsd.edu) [Instagram] (https://www.instagram.com/wevinkong/)
+[GitHub](https://github.com/kduby)  [LinkedIn](https://www.linkedin.com/in/kevinwong01/)    [Email](kew005@ucsd.edu)    [Instagram] (https://www.instagram.com/wevinkong/)
 
 ###### Skills
 -C/C++
@@ -34,4 +34,4 @@
 -[] Sleep early, wake up early
 -[] Practice coding problems
 
-[Currently working on...] (current.md)
+[Currently working on](current.md)
