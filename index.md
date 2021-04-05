@@ -16,9 +16,9 @@
 
 ###### Goals
 - [x] Exercise daily
-- [] Learn something entirely new
-- [] Sleep early, wake up early
-- [] Practice coding problems
+- [x] Learn something entirely new
+- [x] Sleep early, wake up early
+- [x] Practice coding problems
 
 ###### Interests
 - Sports 
