@@ -6,13 +6,13 @@
 [GitHub](https://github.com/kduby)  [LinkedIn](https://www.linkedin.com/in/kevinwong01/)    [Email](kew005@ucsd.edu)  
 
 ###### Skills
--C/C++
--Java
--Python
--React
--HTML/CSS
--Javascript
--Typescript
+- C/C++
+- Java
+- Python
+- React
+- HTML/CSS
+- Javascript
+- Typescript
 
 ###### Goals
 - [x] Exercise daily
