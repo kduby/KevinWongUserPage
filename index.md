@@ -29,9 +29,9 @@
 ![alt text](valorant.jpg "Title")
 
 ###### Goals
-[x] Exercise daily
--[] Learn something entirely new
--[] Sleep early, wake up early
--[] Practice coding problems
+- [] Exercise daily
+- [] Learn something entirely new
+- [] Sleep early, wake up early
+- [] Practice coding problems
 
 [Currently working on](current.md)
