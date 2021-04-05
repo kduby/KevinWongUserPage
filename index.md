@@ -29,7 +29,7 @@
 ![alt text](valorant.jpg "Title")
 
 ###### Goals
--[x] Exercise daily
+[x] Exercise daily
 -[] Learn something entirely new
 -[] Sleep early, wake up early
 -[] Practice coding problems
