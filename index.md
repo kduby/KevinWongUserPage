@@ -1,8 +1,9 @@
 # Kevin Wong
 ## *Computer Science Student @ UC San Diego*
-> Eager to have fun and learn
+> Eager to have fun and learn :)
 
-[GitHub](https://github.com/kduby)  [LinkedIn](https://www.linkedin.com/in/kevinwong01/)    [Email](kew005@ucsd.edu)
+#### Connect With Me!
+[GitHub](https://github.com/kduby)  [LinkedIn](https://www.linkedin.com/in/kevinwong01/)    [Email](kew005@ucsd.edu) [Instagram] (https://www.instagram.com/wevinkong/)
 
 ###### Skills
 -C/C++
@@ -14,7 +15,23 @@
 -Typescript
 
 ###### Interests
--Sports (volleyball, basketball, swimming, running)
+- Sports 
+ 1. volleyball
+ 2. basketball
+ 3. swimming
+ 4. running
 ![alt text](Haikyuu.jpg "Title")
--TV Shows
--Music
+- TV Shows 
+- Music
+![alt text](piano.jpg "Title")
+- Games
+![alt text](chess.jpg "Title")
+![alt text](valorant.jpg "Title")
+
+###### Goals
+-[x] Exercise daily
+-[] Learn something entirely new
+-[] Sleep early, wake up early
+-[] Practice coding problems
+
+[Currently working on...] (current.md)
