@@ -37,3 +37,10 @@
 
 
 [Currently working on](current.md)
+
+###### Git commands used to build this website
+```
+git add
+git commit
+git push
+```
